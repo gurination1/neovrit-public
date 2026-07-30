@@ -1,9 +1,2 @@
-.env
-.env.local
-.env.*.local
-node_modules/
-.vercel/
-*.log
-.secrets
-supabase/.temp/
-
+.vercel
+.env*
